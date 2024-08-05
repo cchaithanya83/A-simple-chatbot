@@ -1,0 +1,4 @@
+langchain
+transformers
+torch
+gradio
